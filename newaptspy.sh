@@ -445,7 +445,7 @@ main()
         search_drug_oneline "$drugname" || return 1
         ;;
       *)
-        error "unknown arglist: "$*""
+        error "unknown arglist: $*"
         return 1
         ;;
     esac
