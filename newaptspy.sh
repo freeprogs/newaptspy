@@ -1,7 +1,7 @@
 #!/bin/bash
 
-# This script searchs and loads cheap drugs on site https://newapteka.ru
-# for city Yuzhno-Sakhalinsk in a multi-line or one-line mode
+# This script searches and loads cheap drugs on site https://newapteka.ru
+# for city Yuzhno-Sakhalinsk in a multi-line or one-line mode.
 # Copyright (C) 2022, Slava <freeprogs.feedback@yandex.ru>
 # License: GNU GPLv3
 
@@ -35,7 +35,7 @@ help_info()
     {
         echo "usage: $progname [--oneline] drugname"
         echo ""
-        echo "Search and loads cheap drugs on site https://newapteka.ru for city"
+        echo "Searches and loads cheap drugs on site https://newapteka.ru for city"
         echo "Yuzhno-Sakhalinsk in a multi-line (default) or one-line mode."
         echo ""
         echo "  noarg      --  Print program usage information."
