@@ -51,7 +51,7 @@ help_info()
 print_version()
 {
     {
-        echo "aptspy v1.0.0"
+        echo "newaptspy v1.0.0"
         echo "Copyright (C) 2022, Slava <freeprogs.feedback@yandex.ru>"
         echo "License: GNU GPLv3"
     } >&2
